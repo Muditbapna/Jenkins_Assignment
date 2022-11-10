@@ -12,5 +12,6 @@ int main()
     scanf("%d %d",&num1,&num2);
     int ans=sum(num1,num2);
     printf("%d+%d=%d\n",num1,num2,ans);
+    printf("change");
     return 0;
 }
